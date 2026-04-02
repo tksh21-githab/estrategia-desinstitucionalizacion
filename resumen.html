@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Estrategia CONADIS — Puntos clave para el MVIP</title>
+  <style>
+    :root {
+      --azul: #1a3a5c;
+      --azul-claro: #2d6a9f;
+      --naranja: #c45c00;
+      --verde: #1a6b3c;
+      --rojo: #8b1a1a;
+      --gris: #f5f5f5;
+      --texto: #1a1a1a;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Georgia', serif;
+      color: var(--texto);
+      background: #fff;
+      font-size: 18px;
+      line-height: 1.7;
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+    }
+    header {
+      border-left: 6px solid var(--azul);
+      padding-left: 1.2rem;
+      margin-bottom: 2.5rem;
+    }
+    header h1 {
+      font-size: 1.5rem;
+      color: var(--azul);
+      line-height: 1.3;
+    }
+    header p {
+      color: #555;
+      font-size: 0.95rem;
+      margin-top: 0.4rem;
+    }
+    h2 {
+      font-size: 1.2rem;
+      color: var(--azul);
+      border-bottom: 2px solid var(--azul-claro);
+      padding-bottom: 0.3rem;
+      margin: 2.5rem 0 1rem;
+    }
+    h3 {
+      font-size: 1rem;
+      color: var(--azul-claro);
+      margin: 1.2rem 0 0.4rem;
+    }
+
+    /* Números grandes */
+    .cifras {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 1rem;
+      margin: 1rem 0 1.5rem;
+    }
+    .cifra {
+      background: var(--gris);
+      border-left: 4px solid var(--azul-claro);
+      padding: 0.8rem 1rem;
+      border-radius: 4px;
+    }
+    .cifra .numero {
+      font-size: 2rem;
+      font-weight: bold;
+      color: var(--azul);
+      line-height: 1.1;
+    }
+    .cifra .etiqueta {
+      font-size: 0.85rem;
+      color: #444;
+      margin-top: 0.2rem;
+    }
+
+    /* Estructura OE */
+    .oe-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 0.8rem;
+      margin: 1rem 0 1.5rem;
+    }
+    @media (max-width: 600px) { .oe-grid { grid-template-columns: 1fr; } }
+    .oe {
+      padding: 1rem;
+      border-radius: 6px;
+      border: 2px solid;
+    }
+    .oe.oe1 { border-color: #5588bb; background: #eef3f9; }
+    .oe.oe2 { border-color: var(--naranja); background: #fdf3ea; }
+    .oe.oe3 { border-color: var(--verde); background: #edf6f1; }
+    .oe .tag {
+      font-size: 0.75rem;
+      font-weight: bold;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      margin-bottom: 0.4rem;
+    }
+    .oe.oe1 .tag { color: #2d5f99; }
+    .oe.oe2 .tag { color: var(--naranja); }
+    .oe.oe3 .tag { color: var(--verde); }
+    .oe .titulo { font-size: 0.95rem; font-weight: bold; margin-bottom: 0.4rem; }
+    .oe .detalle { font-size: 0.85rem; color: #444; }
+
+    /* Alerta / caja importante */
+    .alerta {
+      background: #fff8e1;
+      border-left: 5px solid var(--naranja);
+      padding: 1rem 1.2rem;
+      margin: 1rem 0;
+      border-radius: 0 4px 4px 0;
+    }
+    .alerta strong { color: var(--naranja); }
+
+    .riesgo {
+      background: #fdf0f0;
+      border-left: 5px solid var(--rojo);
+      padding: 1rem 1.2rem;
+      margin: 1rem 0;
+      border-radius: 0 4px 4px 0;
+    }
+    .riesgo strong { color: var(--rojo); }
+
+    .oportunidad {
+      background: #edf6f1;
+      border-left: 5px solid var(--verde);
+      padding: 1rem 1.2rem;
+      margin: 1rem 0;
+      border-radius: 0 4px 4px 0;
+    }
+    .oportunidad strong { color: var(--verde); }
+
+    /* Tabla de oportunidades */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin: 1rem 0;
+    }
+    th {
+      background: var(--azul);
+      color: #fff;
+      padding: 0.6rem 0.8rem;
+      text-align: left;
+    }
+    td { padding: 0.6rem 0.8rem; border-bottom: 1px solid #ddd; }
+    tr:nth-child(even) td { background: var(--gris); }
+    td:first-child { font-weight: bold; color: var(--azul-claro); white-space: nowrap; }
+
+    /* Mensaje final */
+    .mensaje-central {
+      background: var(--azul);
+      color: #fff;
+      padding: 1.5rem 2rem;
+      border-radius: 8px;
+      margin: 2rem 0;
+      font-size: 1.05rem;
+      line-height: 1.6;
+    }
+    .mensaje-central cite {
+      display: block;
+      margin-top: 0.8rem;
+      font-size: 0.85rem;
+      color: #bdd4e8;
+      font-style: normal;
+    }
+
+    ul { padding-left: 1.4rem; }
+    li { margin-bottom: 0.4rem; }
+    p { margin-bottom: 0.8rem; }
+    .nota { font-size: 0.85rem; color: #666; font-style: italic; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Estrategia de Desinstitucionalización del CONADIS<br>— Puntos clave para el MVIP</h1>
+  <p>Res. D000204-2025 · Análisis interno RELAVIN/MVIP · Uso reservado · Abril 2026</p>
+</header>
+
+<!-- 1. El problema en números -->
+<section aria-labelledby="s1">
+  <h2 id="s1">1. El problema que reconoce la propia estrategia</h2>
+  <p>Por primera vez, un documento oficial peruano nombra la institucionalización involuntaria como problema y traza un plan para resolverla. Estos son los datos de partida:</p>
+
+  <div class="cifras" role="list">
+    <div class="cifra" role="listitem">
+      <div class="numero">482</div>
+      <div class="etiqueta">personas residentes en los 10 CAR del CONADIS (abril 2025)</div>
+    </div>
+    <div class="cifra" role="listitem">
+      <div class="numero">49,6%</div>
+      <div class="etiqueta">lleva más de 10 años en un CAR — 9 personas llevan entre 30 y 36 años</div>
+    </div>
+    <div class="cifra" role="listitem">
+      <div class="numero">81,4%</div>
+      <div class="etiqueta">tiene discapacidad intelectual o psicosocial</div>
+    </div>
+    <div class="cifra" role="listitem">
+      <div class="numero">2,5%</div>
+      <div class="etiqueta">accede a la Residencia de Vida Independiente (RVI) — la única alternativa existente</div>
+    </div>
+  </div>
+
+  <div class="alerta">
+    <strong>Dato clave:</strong> La principal causa de egreso de los CAR es el <strong>fallecimiento</strong>. La institución no es un paso, es un destino.
+  </div>
+</section>
+
+<!-- 2. Estructura -->
+<section aria-labelledby="s2">
+  <h2 id="s2">2. Estructura de la estrategia (2025–2030)</h2>
+  <p>Tres objetivos específicos, seis líneas de acción:</p>
+
+  <div class="oe-grid" role="list">
+    <div class="oe oe1" role="listitem">
+      <div class="tag">OE 1 — Prevención</div>
+      <div class="titulo">Evitar que nuevas personas ingresen a CAR</div>
+      <div class="detalle">SAIPD (visita familiar), cambio cultural, sensibilización a jueces y operadores</div>
+    </div>
+    <div class="oe oe2" role="listitem">
+      <div class="tag">OE 2 — Nuevos servicios ★</div>
+      <div class="titulo">Crear servicios comunitarios de apoyo</div>
+      <div class="detalle">Diseñar modelos de servicios (2026) · Instrumentos normativos para formación en asistencia personal (2026)</div>
+    </div>
+    <div class="oe oe3" role="listitem">
+      <div class="tag">OE 3 — Transformar CAR</div>
+      <div class="titulo">Desinstitucionalizar a residentes actuales</div>
+      <div class="detalle">Reducir ingresos a CAR · Aprobar modelo de RVI (2026) · Capacitar personal</div>
+    </div>
+  </div>
+
+  <p class="nota">★ OE2 es donde el MVIP tiene la entrada más directa y urgente.</p>
+</section>
+
+<!-- 3. La ventana 2026 -->
+<section aria-labelledby="s3">
+  <h2 id="s3">3. La ventana que se abre en 2026</h2>
+  <p>Tres tareas críticas están programadas para <strong>este año</strong> y todavía no tienen metodología aprobada:</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tarea</th>
+        <th>Qué es</th>
+        <th>Por qué importa</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>OE2 / LA4 / A1</td>
+        <td>Diseñar y aprobar los modelos de servicios de apoyo y cuidados</td>
+        <td>El CONADIS aún no sabe qué modelo va a implementar. El MVIP puede proponer uno.</td>
+      </tr>
+      <tr>
+        <td>OE2 / LA4 / A2</td>
+        <td>Emitir instrumentos normativos para formación en asistencia personal</td>
+        <td>Si la definición de AP queda mal escrita aquí, quedará mal en la ley.</td>
+      </tr>
+      <tr>
+        <td>OE3 / LA6 / A2</td>
+        <td>Aprobar el modelo de Residencia de Vida Independiente (RVI)</td>
+        <td>Si el modelo se aprueba sin metodología VI, formaliza una institución pequeña, no vida independiente.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="oportunidad">
+    <strong>El canal de entrada existe:</strong> La presidenta del CONADIS (Mercedes Villalobos) ya se reunió con Bárbara. La Dirección de Políticas solicitó asesoría a RELAVIN en marzo 2026. La puerta está abierta ahora.
+  </div>
+</section>
+
+<!-- 4. Los dos riesgos conceptuales -->
+<section aria-labelledby="s4">
+  <h2 id="s4">4. Dos riesgos que hay que intervenir desde adentro</h2>
+
+  <h3>Riesgo 1: La confusión entre asistencia personal y cuidado</h3>
+  <p>La estrategia menciona "asistencia personal" pero la trata como sinónimo de "cuidados". Son cosas distintas:</p>
+  <ul>
+    <li><strong>Cuidado:</strong> otra persona decide, dirige y ejecuta. La persona con discapacidad es receptora.</li>
+    <li><strong>Asistencia personal:</strong> la persona con discapacidad dirige. El asistente ejecuta lo que el usuario decide. No hay relación médica.</li>
+  </ul>
+  <div class="riesgo">
+    <strong>Si esta confusión queda en el instrumento normativo de 2026,</strong> la asistencia personal quedará definida como dependencia, no como autonomía. Replicaría el error del SINAPEDIS.
+  </div>
+
+  <h3>Riesgo 2: Las RVI como transinstitucionalización</h3>
+  <p>El modelo actual de RVI propuesto por CONADIS prevé: máximo 5 personas, bajo supervisión de un "monitor", solo para personas con discapacidad "leve o moderada".</p>
+  <div class="riesgo">
+    <strong>Eso no es vida independiente.</strong> Es una institución más pequeña. Si el modelo se aprueba en 2026 sin incorporar la metodología VI, quedará formalizado un modelo que excluye a personas con discapacidad severa y mantiene supervisión sobre la vida cotidiana.
+  </div>
+</section>
+
+<!-- 5. Lo que falta en la estrategia -->
+<section aria-labelledby="s5">
+  <h2 id="s5">5. Lo que la estrategia reconoce pero no resuelve</h2>
+  <p>El documento define correctamente la desinstitucionalización:</p>
+  <blockquote style="border-left:3px solid #aaa; padding-left:1rem; color:#444; font-style:italic; margin:1rem 0;">
+    "el proceso de desarrollo de servicios comunitarios que devuelvan la autonomía, la posibilidad de elección y el control a las personas con discapacidad en lo que respecta a cómo, dónde y con quién deciden vivir"
+  </blockquote>
+  <p>Pero en todas las actividades concretas, el sujeto es CONADIS. Las personas con discapacidad aparecen como destinatarias, no como actores.</p>
+  <div class="alerta">
+    <strong>La ausencia más importante:</strong> En la sección de actores clave (Gestión Articulada) figuran 12 ministerios e instituciones del Estado. <strong>No aparece ninguna organización de personas con discapacidad.</strong> El MVIP es completamente invisible en la arquitectura oficial.
+  </div>
+</section>
+
+<!-- 6. Qué puede hacer el MVIP -->
+<section aria-labelledby="s6">
+  <h2 id="s6">6. Lo que el MVIP puede hacer — y nadie más puede</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tarea CONADIS</th>
+        <th>Aporte del MVIP</th>
+        <th>Quién</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Diseñar modelos de servicios (OE2/A1)</td>
+        <td>Presentar CEVI Vida Propia como modelo; proponer distinción AP/cuidado con referencia al EC1711 (México)</td>
+        <td>Roy + Astrid Carolina</td>
+      </tr>
+      <tr>
+        <td>Instrumentos normativos AP (OE2/A2)</td>
+        <td>Intervenir en la definición de AP: el usuario dirige, no es médico, no es "cuidador"</td>
+        <td>Bárbara + OIT</td>
+      </tr>
+      <tr>
+        <td>Modelo RVI (OE3/LA6/A2)</td>
+        <td>Ofrecer metodología VI; distinguir RVI de institución pequeña; casos japoneses como referencia</td>
+        <td>Roy + Bárbara</td>
+      </tr>
+      <tr>
+        <td>Actualización NTS N°140 (MINSA)</td>
+        <td>Adecuar la norma de Hogares Protegidos al enfoque de vida independiente</td>
+        <td>María Alejandra</td>
+      </tr>
+      <tr>
+        <td>Capacitación actores clave (OE1/LA3)</td>
+        <td>Formación de jueces, UPEs, personal de CAR en modelo VI</td>
+        <td>Bárbara + María Alejandra</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Mensaje central -->
+<section aria-labelledby="s7">
+  <h2 id="s7">7. El posicionamiento del MVIP</h2>
+
+  <div class="mensaje-central">
+    "La Estrategia del CONADIS reconoce la desinstitucionalización como objetivo y la asistencia personal como herramienta. Pero no tiene metodología para ninguno de los dos. El MVIP sí. Estamos disponibles para el diseño de 2026."
+    <cite>— Mensaje central del MVIP hacia CONADIS</cite>
+  </div>
+
+  <p>Roy Castro y Bárbara Ventura son exbecarios JICA con experiencia directa en el modelo japonés. RELAVIN publicó el informe OIT-ENIL sobre asistencia personal en América Latina. El CEVI Vida Propia opera en Arequipa. Nadie en el sistema oficial peruano tiene esa combinación de credencial internacional y presencia local.</p>
+
+  <p><strong>La estrategia del MVIP no es oponerse al CONADIS. Es ocupar el espacio que la propia estrategia genera.</strong></p>
+</section>
+
+<hr style="margin:2.5rem 0; border:none; border-top:1px solid #ddd;">
+<p class="nota">Documento de uso interno · MVIP / RELAVIN · Abril 2026 · Basado en Res. D000204-2025 (CONADIS)</p>
+
+</body>
+</html>
