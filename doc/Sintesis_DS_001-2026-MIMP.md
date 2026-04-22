@@ -39,7 +39,7 @@ Lo más relevante para el trabajo de RELAVIN y el MVIP es la incorporación form
 
 ---
 
-## 4. Participación de las personas con discapacidad en el diseño, implementación y evaluación (Art. 84-A) ★ NUEVO ÉNFASIS
+## 4. Participación de las personas con discapacidad en el diseño, implementación y evaluación (Art. 84-A) 
 
 Una de las incorporaciones **más trascendentes** del decreto, y que no había sido suficientemente visibilizada en lecturas previas:
 
@@ -56,7 +56,7 @@ Disposiciones concordantes:
 
 ---
 
-## 5. Educación inclusiva y uso de AP/cuidador en el sistema educativo ★ NUEVO ÉNFASIS
+## 5. Educación inclusiva y uso de AP/cuidador en el sistema educativo 
 
 El decreto establece de forma explícita el derecho a la presencia del asistente personal o cuidador en instituciones educativas, como ajuste razonable:
 
@@ -73,7 +73,7 @@ El decreto establece de forma explícita el derecho a la presencia del asistente
 
 ---
 
-## 6. Financiamiento — fortaleza y fragilidad simultáneas ★ NUEVO ÉNFASIS
+## 6. Financiamiento — fortaleza y fragilidad simultáneas 
 
 > **Art. 4.- Financiamiento:** "La implementación del presente Decreto Supremo se financia con cargo al **presupuesto institucional de las entidades involucradas**, sin demandar recursos adicionales al Tesoro Público."
 
@@ -91,9 +91,9 @@ El decreto establece de forma explícita el derecho a la presencia del asistente
 
 ---
 
-## 7. La cuestión del CEVI como proveedor del servicio ★ NUEVO ÉNFASIS
+## 7. La cuestión del CEVI como proveedor del servicio 
 
-Una lectura atenta del decreto muestra que **no se reconoce explícitamente a los Centros de Vida Independiente (CEVI) gestionados por personas con discapacidad como proveedores formales del servicio de asistencia personal**. La estructura de provisión se construye con los siguientes rasgos:
+Una lectura atenta del decreto muestra que **no se reconoce explícitamente a los Centros de Vida Independiente (CVI) gestionados por personas con discapacidad como proveedores formales del servicio de asistencia personal**. La estructura de provisión se construye con los siguientes rasgos:
 
 - **Art. 66-A.1** atribuye la prestación del servicio al **MIMP, CONADIS, gobiernos regionales y gobiernos locales** (actores estatales).
 - **Art. 3.39** define la asistencia personal como un servicio regulado por **contrato directo entre la persona con discapacidad y quien brinda el servicio** — sin mediación organizacional expresa.
@@ -124,7 +124,7 @@ Sin embargo, existen **aperturas estratégicas** que el MVIP puede aprovechar:
 
 ---
 
-## 9. Relevancia para RELAVIN / MovimientoPcD
+## 9. Relevancia para RELAVIN / MVIP
 
 Este decreto es un hito normativo significativo: por primera vez el reglamento peruano incorpora definiciones alineadas con el **modelo de vida independiente** — autonomía, libre determinación, dirección por la propia persona. La figura del asistente personal queda diferenciada explícitamente del cuidador familiar.
 
