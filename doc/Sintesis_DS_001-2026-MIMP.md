@@ -101,7 +101,7 @@ Una lectura atenta del decreto muestra que **no se reconoce explícitamente a lo
 
 Sin embargo, existen **aperturas estratégicas** que el MVIP puede aprovechar:
 
-1. **Disposición QUINTA:** CONADIS debe diseñar el modelo de servicio de AP (180 días hábiles) e implementar un **piloto durante 2026**. Incluir al CEVI "Vida Propia" como ejecutor del piloto **crea un precedente práctico antes de que el modelo quede fijado**.
+1. **Disposición QUINTA:** CONADIS debe diseñar el modelo de servicio de AP (180 días hábiles) e implementar un **piloto durante 2026**. Incluir al CVI como ejecutor del piloto **crea un precedente práctico antes de que el modelo quede fijado**.
 2. **Art. 66-A.2:** El modelo aún no existe — está por diseñarse. Esta es la ventana donde el rol del CEVI puede quedar incorporado formalmente si el MVIP participa activamente en el proceso de diseño (vía Art. 84-A).
 3. **Art. 66-A.3.a:** Los gobiernos regionales y locales deben "promover, coordinar y **articular** la implementación de servicios de asistencia personal" — el verbo *articular* permite leer la posibilidad de partenariados con los CEVI.
 4. **Art. 66-A.3.b:** El mandato de "**fortalecimiento de servicios comunitarios orientados a promover la vida independiente**" es la cláusula más directa para reclamar apoyo institucional a los CEVI como dispositivos comunitarios.
