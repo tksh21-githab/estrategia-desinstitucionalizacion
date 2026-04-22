@@ -91,7 +91,7 @@ El decreto establece de forma explícita el derecho a la presencia del asistente
 
 ---
 
-## 7. La cuestión del CEVI como proveedor del servicio 
+## 7. La cuestión del CVI como proveedor del servicio 
 
 Una lectura atenta del decreto muestra que **no se reconoce explícitamente a los Centros de Vida Independiente (CVI) gestionados por personas con discapacidad como proveedores formales del servicio de asistencia personal**. La estructura de provisión se construye con los siguientes rasgos:
 
