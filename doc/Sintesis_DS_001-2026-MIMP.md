@@ -133,7 +133,7 @@ Los cuatro elementos estructurales que definen el alcance real del avance son:
 1. **Participación obligatoria de las personas con discapacidad** en el diseño, implementación y evaluación (Art. 84-A) — palanca legal directa para entrar en todos los procesos que siguen.
 2. **Financiamiento con presupuesto público** (Art. 4) — derecho sostenido sobre fondos fiscales, con la fragilidad de que no se asignan recursos adicionales.
 3. **Educación inclusiva con AP/cuidador como ajuste razonable** (Art. 34.h, 35.4, Disposición TERCERA) — frente concreto para construir demanda visible.
-4. **Rol del CEVI aún no reconocido formalmente** — pero la ventana de 180 días de diseño del modelo y el piloto 2026 son la oportunidad decisiva para posicionarlo.
+4. **Rol del CVI aún no reconocido formalmente** — pero la ventana de 180 días de diseño del modelo y el piloto 2026 son la oportunidad decisiva para posicionarlo.
 
 El **proceso piloto durante 2026** y la **Estrategia Nacional posterior** serán los momentos clave de incidencia. La tarea inmediata no es celebrar el avance sino asegurar que la implementación concrete lo que el texto promete.
 
