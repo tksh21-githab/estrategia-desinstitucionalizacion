@@ -9,6 +9,8 @@ Este Decreto Supremo modifica el Reglamento de la Ley N° 29973 (Ley General de 
 
 Lo más relevante para el trabajo de RELAVIN y el MVIP es la incorporación formal de la **asistencia personal como derecho y servicio reglamentado**, junto con un conjunto de disposiciones sobre participación de las personas con discapacidad en el diseño de políticas, educación inclusiva y financiamiento que configuran un nuevo marco estratégico.
 
+La estrategia del MVIP frente a este marco se organiza en **dos líneas paralelas que se refuerzan mutuamente**: una **línea central en Lima**, orientada a incidir en el diseño del modelo nacional desde la mesa técnica de CONADIS; y una **línea regional en Arequipa**, orientada a construir un modelo concreto de implementación territorial a través del Centro de Vida Independiente «Vida Propia». Esta lógica de doble vía atraviesa toda la lectura que sigue.
+
 ---
 
 ## 1. Definiciones clave incorporadas (Art. 3)
@@ -39,20 +41,40 @@ Lo más relevante para el trabajo de RELAVIN y el MVIP es la incorporación form
 
 ---
 
-## 4. Participación de las personas con discapacidad en el diseño, implementación y evaluación (Art. 84-A) 
+## 4. Participación de las personas con discapacidad en el diseño, implementación y evaluación (Arts. 84-A y 85-A)
 
 Una de las incorporaciones **más trascendentes** del decreto, y que no había sido suficientemente visibilizada en lecturas previas:
 
 > **Art. 84-A:** "Las entidades de la Administración Pública de los tres niveles de gobierno **garantizan la participación de manera representativa e igualitaria**, de las personas con discapacidad y de las organizaciones que representan o están conformadas por personas con discapacidad, recogiendo sus necesidades, expectativas y opiniones **en el diseño, implementación y evaluación** de sus intervenciones en materia de discapacidad."
 
-Disposiciones concordantes:
+### Arquitectura de la participación: dos niveles diferenciados
 
-- **Art. 85-A:** Crea las **Instancias de Diálogo del SINAPEDIS** a nivel local y regional — espacios formales donde participan activamente las organizaciones conformadas o que representan a las personas con discapacidad.
+La normativa configura dos espacios distintos —y de naturaleza muy diferente— por donde se canaliza la participación. Distinguirlos es decisivo para no confundir el ritual político con el espacio sustantivo:
+
+**1. Mesa Nacional para el Seguimiento del SINAPEDIS — nivel político-intergubernamental**
+
+Conformada el 27 de abril de 2026 mediante la **Resolución de Presidencia N° D000088-2026-CONADIS-PRE**, está integrada por la Presidencia del CONADIS, los 25 Gobernadores Regionales y el Alcalde de la Municipalidad Metropolitana de Lima. Sesiona dos veces al año, con al menos una sesión presencial. **No contempla la participación directa de organizaciones de personas con discapacidad.** Su función práctica es la comunicación, ratificación y coordinación política de las decisiones tomadas en el nivel técnico-central de CONADIS.
+
+**2. Instancias de Diálogo del SINAPEDIS (Art. 85-A) — nivel regional y local, sustantivo**
+
+Creadas por el propio DS 001-2026-MIMP, son los espacios formales **donde sí participan activamente las organizaciones de y para personas con discapacidad**. Operan a nivel regional (coordinadas por las OREDIS) y a nivel local (coordinadas por las OMAPED). Cada año producen un documento que recoge la identificación de barreras, necesidades y expectativas del territorio, y que debe orientar la formulación y el planeamiento de los gobiernos regionales y locales. CONADIS debe aprobar sus lineamientos operativos en un plazo de 120 días hábiles (Disposición Complementaria Final OCTAVA), lo que sitúa su entrada en funcionamiento aproximadamente en agosto de 2026.
+
+**Esta es la arena estratégica para el MVIP.** Es allí donde la representación de personas con discapacidad se traduce en influencia concreta sobre la planificación regional y local.
+
+### Disposiciones concordantes
+
 - **Arts. 78.4 y 79.4:** Las OREDIS (nivel regional) y OMAPED (nivel local) **garantizan la participación** de las organizaciones de personas con discapacidad.
 - **Art. 82.h:** El CONADIS regula la participación de las organizaciones en el marco del SINAPEDIS.
 - **Arts. 83.g, 83-A.g, 83-B.e:** Los ministerios, gobiernos regionales y gobiernos locales deben **desarrollar procesos de consulta previa** a la aprobación de normas, políticas y programas en materia de discapacidad.
 
-**Implicación estratégica para el MVIP:** la participación en el diseño del modelo de AP que CONADIS debe aprobar en 180 días (Disposición QUINTA) **ya no es una concesión discrecional sino una obligación legal del Estado**. El MVIP puede exigir su inclusión formal en ese proceso invocando directamente el Art. 84-A.
+### Implicación estratégica para el MVIP
+
+La participación en el diseño del modelo de AP que CONADIS debe aprobar en 180 días (Disposición QUINTA) **ya no es una concesión discrecional sino una obligación legal del Estado**, invocable directamente vía Art. 84-A. Esta participación debe desplegarse simultáneamente en los dos niveles:
+
+- **A nivel central (Lima):** incidencia sobre el modelo nacional y sobre los lineamientos operativos de las Instancias.
+- **A nivel regional (Arequipa y otras):** posicionamiento en la primera convocatoria de las Instancias de Diálogo Regional y Local para que la representación de personas con discapacidad la asuman organizaciones del movimiento de vida independiente y no quede capturada por liderazgos administrativos por defecto.
+
+CONADIS ya empezó a explicitar públicamente este enfoque: en el taller multisectorial realizado en **Áncash el 15 de mayo de 2026**, con presencia del Viceministro de Poblaciones Vulnerables y de la propia Presidenta del CONADIS, se anunció formalmente «el fortalecimiento de las instancias de diálogo del Sinapedis con participación de organizaciones de personas con discapacidad». El patrón de talleres regionales se replicará en otros departamentos en los próximos meses.
 
 ---
 
@@ -111,7 +133,45 @@ Sin embargo, existen **aperturas estratégicas** que el MVIP puede aprovechar:
 
 ---
 
-## 8. Plazos importantes
+## 8. Estrategia de implementación: línea central (Lima) y línea regional (Arequipa)
+
+El marco que abre el DS 001-2026-MIMP, sumado a los desarrollos institucionales subsiguientes —la **RM N° 214-2026-MIMP** sobre el sistema de apoyos y salvaguardias para la capacidad jurídica, la **RP N° D000088-2026-CONADIS-PRE** que conforma la Mesa Nacional del SINAPEDIS, y la dinámica de talleres regionales en curso (Áncash, mayo de 2026)—, permite organizar la incidencia del MVIP en **dos líneas que avanzan en paralelo y se refuerzan mutuamente**.
+
+### Línea central — Lima
+
+- **Actores principales:** Bárbara Ventura y la coordinación nacional del MVIP, con interlocución directa con la Presidenta del CONADIS (Mercedes Villalobos) y con la Subdirección de Políticas Públicas.
+- **Vías formales de incidencia:**
+  - Participación en el diseño del **modelo de servicio de asistencia personal** que CONADIS debe aprobar en 180 días hábiles (Disposición Complementaria Final QUINTA del DS 001-2026).
+  - Participación en la formulación de los **lineamientos operativos de las Instancias de Diálogo del SINAPEDIS** (Disposición Complementaria Final OCTAVA, plazo de 120 días hábiles).
+  - Articulación con la **Instancia de Diálogo Local de Lima Metropolitana**, una vez convocada.
+  - Diálogo con el Ministerio de Salud (MINSA) en el marco de la NTS N° 140, conducido por María Alejandra Zavaleta.
+- **Función estratégica:** asegurar que el marco nacional reconozca el modelo de vida independiente como referente y que los Centros de Vida Independiente sean considerados actores legítimos en la prestación del servicio.
+
+### Línea regional — Arequipa
+
+- **Actores principales:** Roy Castro y el Centro de Vida Independiente «Vida Propia», cuya apertura se proyecta para junio de 2026 en Arequipa.
+- **Marco institucional disponible:** el Gobernador Regional de Arequipa es miembro pleno de la Mesa Nacional del SINAPEDIS (RP N° D000088-2026-CONADIS-PRE), lo que abre una vía indirecta de visibilidad en el nivel central. La **OREDIS Arequipa** será la entidad coordinadora de la futura Instancia de Diálogo Regional.
+- **Vías de incidencia:**
+  - Posicionamiento del CVI «Vida Propia» como referente regional del modelo de vida independiente desde su apertura.
+  - Articulación con la OREDIS Arequipa para tener un asiento natural en la primera convocatoria de la Instancia de Diálogo Regional Arequipa.
+  - Visibilidad ante el Gobierno Regional de Arequipa (Gerencia de Desarrollo Social) como interlocutor técnico de las políticas de discapacidad.
+  - Preparación para la posible llegada a Arequipa del patrón de talleres multisectoriales de CONADIS observado en Áncash.
+- **Función estratégica:** desarrollar Arequipa como **modelo regional de implementación de la vida independiente**, generando práctica concreta antes de que el modelo nacional quede cerrado. Si CONADIS necesita un caso de referencia para presentar el modelo de AP, Vida Propia debe estar en posición de ofrecerlo.
+
+### Lógica del paralelismo
+
+Las dos líneas no son alternativas, sino complementarias:
+
+- El avance en Lima **provee respaldo normativo** a lo que Arequipa construye en la práctica.
+- La existencia de un modelo regional funcional en Arequipa **da concreción y legitimidad** a las propuestas que se llevan a la mesa central.
+- La presencia simultánea en ambos niveles **diversifica los riesgos políticos**: un retroceso en el nivel central no detiene el avance regional, y viceversa.
+- En un país con alta rotación política y fragmentación institucional, **un modelo regional sólido funciona como ancla independiente del color del Ejecutivo de turno**.
+
+Esta lógica es además consistente con un patrón ya observado en otros procesos: **la práctica regional anticipa muchas veces lo que el nivel central solo formaliza después**. Arequipa puede ser, en el caso del MVIP, exactamente eso.
+
+---
+
+## 9. Plazos importantes
 
 | Plazo | Obligación |
 |---|---|
@@ -124,20 +184,26 @@ Sin embargo, existen **aperturas estratégicas** que el MVIP puede aprovechar:
 
 ---
 
-## 9. Relevancia para RELAVIN / MVIP
+## 10. Relevancia para RELAVIN / MVIP
 
 Este decreto es un hito normativo significativo: por primera vez el reglamento peruano incorpora definiciones alineadas con el **modelo de vida independiente** — autonomía, libre determinación, dirección por la propia persona. La figura del asistente personal queda diferenciada explícitamente del cuidador familiar.
 
-Los cuatro elementos estructurales que definen el alcance real del avance son:
+Los cinco elementos estructurales que definen el alcance real del avance son:
 
-1. **Participación obligatoria de las personas con discapacidad** en el diseño, implementación y evaluación (Art. 84-A) — palanca legal directa para entrar en todos los procesos que siguen.
+1. **Participación obligatoria de las personas con discapacidad** en el diseño, implementación y evaluación (Art. 84-A), canalizada principalmente por las Instancias de Diálogo del SINAPEDIS (Art. 85-A) — palanca legal directa para entrar en todos los procesos que siguen.
 2. **Financiamiento con presupuesto público** (Art. 4) — derecho sostenido sobre fondos fiscales, con la fragilidad de que no se asignan recursos adicionales.
 3. **Educación inclusiva con AP/cuidador como ajuste razonable** (Art. 34.h, 35.4, Disposición TERCERA) — frente concreto para construir demanda visible.
 4. **Rol del CVI aún no reconocido formalmente** — pero la ventana de 180 días de diseño del modelo y el piloto 2026 son la oportunidad decisiva para posicionarlo.
+5. **Doble vía de implementación**: la incidencia se organiza simultáneamente en la **línea central (Lima)** y la **línea regional (Arequipa)**, cada una con actores, marcos y plazos propios, que se refuerzan mutuamente.
 
-El **proceso piloto durante 2026** y la **Estrategia Nacional posterior** serán los momentos clave de incidencia. La tarea inmediata no es celebrar el avance sino asegurar que la implementación concrete lo que el texto promete.
+El **proceso piloto durante 2026** y la **Estrategia Nacional posterior** serán los momentos clave de incidencia. La tarea inmediata no es celebrar el avance sino asegurar que la implementación concrete lo que el texto promete, **tanto desde la mesa central como desde la práctica regional**.
 
 ---
 
 _Fuente: DS N° 001-2026-MIMP, publicado en el diario oficial El Peruano, 8 de abril de 2026._
-_Ver también: `Analisis_Legal_MVIP_Peru_2026_v5.md` (análisis integrado del contexto estratégico MVIP)._
+
+_Documentos complementarios:_
+
+- `Sintesis_RM_214-2026-MIMP.md` — Estrategia de apoyos y salvaguardias para la capacidad jurídica (25 de abril de 2026).
+- `Analisis_Legal_MVIP_Peru_2026_v5.md` — análisis integrado del contexto estratégico MVIP.
+- Resolución de Presidencia N° D000088-2026-CONADIS-PRE — conformación de la Mesa Nacional del SINAPEDIS (27 de abril de 2026).
