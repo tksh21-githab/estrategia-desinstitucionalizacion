@@ -25,7 +25,8 @@ _Preparado por RELAVIN para uso del Movimiento de Vida Independiente de Perú (M
 
 - Stefan Trömel — Inclusión Social de las Personas con Discapacidad, OIT Ginebra — colaboración con RELAVIN desde 2024
 - Paz Arancibia — Oficina Regional OIT Lima, área de Género y Cuidados — interlocutora que orientó esta reunión
-- Teresa Torres — Especialista en Administración del Trabajo y Legislación Laboral, OIT Andina (Bogotá) — referencia de seguimiento desde 2025
+- [Teresa Torres](../perfiles/Teresa_Torres.md) — Especialista en Administración del Trabajo y Legislación Laboral, OIT Andina (Bogotá) — referencia de seguimiento desde 2025
+- [Programa Conjunto #ProIncluye](../perfiles/PROIncluye.md) — la línea paralela del Sistema ONU Perú en materia de inclusión educativa y laboral de personas con discapacidad, complementaria a la línea de cuidados
 
 ---
 
